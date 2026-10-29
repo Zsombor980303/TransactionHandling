@@ -1,0 +1,501 @@
+account_id;client_name;currency;merchant_name;category_code;merchant_location;device_fingerprint;client_ip
+ACC-65921-XF;Molnár János;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_macbookpro_15;195.228.140.22
+ACC-38140-BC;Mészáros Ferenc;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_iphone15_pro;84.224.119.50
+ACC-90412-LM;Simon András;HUF;MOL Benzinkút;5541;Siófok, HU;dv_windows_desktop;46.107.29.111
+ACC-66102-TR;Kovács Éva;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_samsung_s24;178.48.91.15
+ACC-22981-QW;Szabó Katalin;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_thinkpad_t14;195.228.19.49
+ACC-77521-ZA;Nagy Attila;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_iphone15_pro;84.224.59.19
+ACC-41054-PL;Kiss György;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_macbookpro_15;46.107.89.29
+ACC-13912-MK;Tóth Mária;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_windows_desktop;178.48.19.99
+ACC-85312-NB;Horváth Zoltán;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_samsung_s24;195.228.39.69
+ACC-32481-VC;Varga Gábor;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_thinkpad_t14;84.224.219.9
+ACC-58294-XF;Farkas László;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_macbookpro_15;46.107.209.19
+ACC-94102-JH;Balogh Péter;HUF;MOL Benzinkút;5541;Siófok, HU;dv_iphone15_pro;178.48.69.9
+ACC-11912-GF;Németh Tamás;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_windows_desktop;195.228.159.89
+ACC-46124-LK;Molnár András;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_samsung_s24;84.224.19.91
+ACC-72941-TR;Mészáros István;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_thinkpad_t14;46.107.119.49
+ACC-33502-MN;Simon Katalin;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_macbookpro_15;178.48.229.19
+ACC-89412-QW;Kovács Gábor;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_iphone15_pro;195.228.99.79
+ACC-55204-ZX;Szabó László;HUF;MOL Benzinkút;5541;Siófok, HU;dv_windows_desktop;84.224.89.39
+ACC-21092-AS;Nagy András;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_samsung_s24;46.107.49.19
+ACC-78984-FD;Kiss Péter;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_thinkpad_t14;178.48.159.69
+ACC-44120-TY;Tóth Attila;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_macbookpro_15;195.228.19.29
+ACC-16102-GH;Horváth Éva;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_iphone15_pro;84.224.199.59
+ACC-93981-CV;Varga Tamás;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_windows_desktop;46.107.39.119
+ACC-61024-BN;Farkas Zoltán;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_samsung_s24;178.48.79.89
+ACC-28241-MK;Balogh István;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_thinkpad_t14;195.228.49.59
+ACC-74941-LK;Németh Mária;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_macbookpro_15;84.224.19.39
+ACC-52102-TR;Molnár Péter;HUF;MOL Benzinkút;5541;Siófok, HU;dv_iphone15_pro;46.107.59.69
+ACC-39412-MN;Mészáros Anna;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_windows_desktop;178.48.99.109
+ACC-86124-QW;Simon László;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_samsung_s24;195.228.129.4
+ACC-59241-ZX;Kovács Tamás;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_thinkpad_t14;84.224.39.79
+ACC-11092-AS;Szabó András;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_macbookpro_15;46.107.169.89
+ACC-76984-FD;Nagy Éva;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_iphone15_pro;178.48.49.12
+ACC-42120-TY;Kiss Zsuzsanna;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_windows_desktop;195.228.19.99
+ACC-14102-GH;Tóth György;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_samsung_s24;84.224.169.45
+ACC-91981-CV;Horváth Katalin;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_thinkpad_t14;46.107.19.80
+ACC-64024-BN;Varga Attila;HUF;MOL Benzinkút;5541;Siófok, HU;dv_macbookpro_15;178.48.19.55
+ACC-26241-MK;Farkas Gábor;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_iphone15_pro;195.228.79.34
+ACC-71941-LK;Balogh Éva;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_windows_desktop;84.224.99.19
+ACC-50102-TR;Németh Tamás;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_samsung_s24;46.107.149.23
+ACC-37412-MN;Molnár György;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_thinkpad_t14;178.48.139.77
+ACC-83124-QW;Mészáros Mária;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_macbookpro_15;195.228.89.11
+ACC-56241-ZX;Simon Péter;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_iphone15_pro;84.224.49.90
+ACC-19092-AS;Kovács Katalin;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_windows_desktop;46.107.199.39
+ACC-75984-FD;Szabó Attila;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_samsung_s24;178.48.59.88
+ACC-40120-TY;Nagy Zoltán;HUF;MOL Benzinkút;5541;Siófok, HU;dv_thinkpad_t14;195.228.69.44
+ACC-12102-GH;Kiss Anna;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_macbookpro_15;84.224.129.3
+ACC-95981-CV;Tóth László;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_iphone15_pro;46.107.79.12
+ACC-62024-BN;Horváth István;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_windows_desktop;178.48.39.99
+ACC-25241-MK;Varga Zsuzsanna;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_samsung_s24;195.228.29.15
+ACC-70941-LK;Farkas András;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_thinkpad_t14;84.224.79.44
+ACC-49102-TR;Balogh József;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_macbookpro_15;46.107.19.99
+ACC-36412-MN;Németh János;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_iphone15_pro;178.48.19.22
+ACC-82124-QW;Molnár Ferenc;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_windows_desktop;195.228.5.69
+ACC-54241-ZX;Mészáros Sándor;HUF;MOL Benzinkút;5541;Siófok, HU;dv_samsung_s24;84.224.9.19
+ACC-18092-AS;Simon Gábor;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_thinkpad_t14;46.107.8.29
+ACC-74984-FD;Kovács János;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_macbookpro_15;178.48.4.19
+ACC-41120-TY;Szabó Tamás;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_iphone15_pro;195.228.3.19
+ACC-15102-GH;Nagy Sándor;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_windows_desktop;84.224.2.19
+ACC-92981-CV;Kiss István;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_samsung_s24;46.107.1.59
+ACC-61024-BN;Tóth Ferenc;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_thinkpad_t14;178.48.0.89
+ACC-27241-MK;Horváth József;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_macbookpro_15;195.228.9.99
+ACC-72941-LK;Varga Krisztián;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_iphone15_pro;84.224.8.89
+ACC-51102-TR;Farkas Dániel;HUF;MOL Benzinkút;5541;Siófok, HU;dv_windows_desktop;46.107.7.79
+ACC-38412-MN;Balogh Norbert;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_samsung_s24;178.48.6.69
+ACC-84124-QW;Németh Roland;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_thinkpad_t14;195.228.5.59
+ACC-57241-ZX;Molnár Tibor;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_macbookpro_15;84.224.4.49
+ACC-10092-AS;Mészáros Imre;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_iphone15_pro;46.107.3.39
+ACC-76984-FD;Simon Balázs;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_windows_desktop;178.48.2.29
+ACC-43120-TY;Kovács Béla;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_samsung_s24;195.228.1.19
+ACC-13102-GH;Szabó Lajos;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_thinkpad_t14;84.224.0.19
+ACC-90981-CV;Nagy József;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_macbookpro_15;46.107.9.99
+ACC-65024-BN;Kiss Imre;HUF;MOL Benzinkút;5541;Siófok, HU;dv_iphone15_pro;178.48.8.89
+ACC-24241-MK;Tóth Balázs;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_windows_desktop;195.228.7.79
+ACC-73941-LK;Horváth Béla;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_samsung_s24;84.224.6.69
+ACC-48102-TR;Varga Lajos;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_thinkpad_t14;46.107.5.59
+ACC-35412-MN;Farkas Tibor;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_macbookpro_15;178.48.4.49
+ACC-81124-QW;Balogh Roland;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_iphone15_pro;195.228.3.39
+ACC-53241-ZX;Németh Dániel;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_windows_desktop;84.224.2.29
+ACC-17092-AS;Molnár Krisztián;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_samsung_s24;46.107.1.19
+ACC-75984-FD;Mészáros Ferenc;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_thinkpad_t14;178.48.0.09
+ACC-42120-TY;Simon János;HUF;MOL Benzinkút;5541;Siófok, HU;dv_macbookpro_15;195.228.12.19
+ACC-14102-GH;Kovács András;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_iphone15_pro;84.224.11.19
+ACC-91981-CV;Szabó Péter;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_windows_desktop;46.107.10.19
+ACC-63024-BN;Nagy László;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_samsung_s24;178.48.21.29
+ACC-29241-MK;Kiss Tamás;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_thinkpad_t14;195.228.31.39
+ACC-70941-LK;Tóth Zoltán;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_macbookpro_15;84.224.41.39
+ACC-47102-TR;Horváth Gábor;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_iphone15_pro;46.107.51.59
+ACC-34412-MN;Varga Mária;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_windows_desktop;178.48.61.69
+ACC-80124-QW;Farkas Éva;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_samsung_s24;195.228.71.79
+ACC-52241-ZX;Balogh Katalin;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_thinkpad_t14;84.224.81.79
+ACC-19092-AS;Németh Anna;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_macbookpro_15;46.107.91.99
+ACC-75984-FD;Molnár Zsuzsanna;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_iphone15_pro;178.48.13.19
+ACC-42120-TY;Mészáros Éva;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_windows_desktop;195.228.23.29
+ACC-14102-GH;Simon Tamás;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_samsung_s24;84.224.43.49
+ACC-91981-CV;Kovács Katalin;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_thinkpad_t14;46.107.53.59
+ACC-63024-BN;Szabó Attila;HUF;MOL Benzinkút;5541;Siófok, HU;dv_macbookpro_15;178.48.63.69
+ACC-29241-MK;Nagy Zoltán;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_iphone15_pro;195.228.73.79
+ACC-70941-LK;Kiss Anna;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_windows_desktop;84.224.83.39
+ACC-47102-TR;Tóth László;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_samsung_s24;46.107.93.99
+ACC-34412-MN;Horváth István;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_thinkpad_t14;178.48.14.19
+ACC-64024-XF;Kovács Zsuzsanna;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_macbookpro_15;195.228.122.3
+ACC-26241-BC;Farkas András;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_iphone15_pro;84.224.12.33
+ACC-71941-LM;Balogh József;HUF;MOL Benzinkút;5541;Siófok, HU;dv_windows_desktop;46.107.55.66
+ACC-50102-TR;Németh János;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_samsung_s24;178.48.99.101
+ACC-37412-QW;Molnár Ferenc;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_thinkpad_t14;195.228.120.4
+ACC-83124-ZA;Mészáros Sándor;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_iphone15_pro;84.224.33.78
+ACC-56241-PL;Simon Gábor;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_macbookpro_15;46.107.166.89
+ACC-19092-MK;Kovács János;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_windows_desktop;178.48.44.12
+ACC-75984-NB;Szabó Tamás;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_samsung_s24;195.228.13.99
+ACC-40120-VC;Nagy Sándor;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_thinkpad_t14;84.224.166.45
+ACC-12102-XF;Kiss István;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_macbookpro_15;46.107.12.80
+ACC-95981-JH;Tóth Ferenc;HUF;MOL Benzinkút;5541;Siófok, HU;dv_iphone15_pro;178.48.11.55
+ACC-62024-GF;Horváth József;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_windows_desktop;195.228.77.34
+ACC-25241-LK;Varga Krisztián;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_samsung_s24;84.224.99.12
+ACC-70941-TR;Farkas Dániel;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_thinkpad_t14;46.107.144.23
+ACC-49102-MN;Balogh Norbert;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_macbookpro_15;178.48.133.77
+ACC-36412-QW;Németh Roland;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_iphone15_pro;195.228.88.11
+ACC-82124-ZX;Molnár Tibor;HUF;MOL Benzinkút;5541;Siófok, HU;dv_windows_desktop;84.224.44.90
+ACC-54241-AS;Mészáros Imre;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_samsung_s24;46.107.199.34
+ACC-18092-FD;Simon Balázs;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_thinkpad_t14;178.48.55.88
+ACC-74984-TY;Kovács Béla;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_macbookpro_15;195.228.66.44
+ACC-41120-GH;Szabó Lajos;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_iphone15_pro;84.224.122.3
+ACC-15102-CV;Nagy József;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_windows_desktop;46.107.77.12
+ACC-92981-BN;Kiss Imre;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_samsung_s24;178.48.33.99
+ACC-61024-MK;Tóth Balázs;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_thinkpad_t14;195.228.22.15
+ACC-27241-LK;Horváth Béla;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_macbookpro_15;84.224.77.44
+ACC-72941-TR;Varga Lajos;HUF;MOL Benzinkút;5541;Siófok, HU;dv_iphone15_pro;46.107.12.99
+ACC-51102-MN;Farkas Tibor;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_windows_desktop;178.48.11.22
+ACC-38412-QW;Balogh Roland;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_samsung_s24;195.228.5.6
+ACC-84124-ZX;Németh Dániel;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_thinkpad_t14;84.224.9.15
+ACC-57241-AS;Molnár Krisztián;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_macbookpro_15;46.107.8.24
+ACC-10092-FD;Mészáros Ferenc;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_iphone15_pro;178.48.4.11
+ACC-76984-TY;Simon János;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_windows_desktop;195.228.3.14
+ACC-43120-GH;Kovács András;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_samsung_s24;84.224.2.19
+ACC-13102-CV;Szabó Péter;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_thinkpad_t14;46.107.1.5
+ACC-90981-BN;Nagy László;HUF;MOL Benzinkút;5541;Siófok, HU;dv_macbookpro_15;178.48.0.8
+ACC-65024-MK;Kiss Tamás;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_iphone15_pro;195.228.9.9
+ACC-24241-LK;Tóth Zoltán;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_windows_desktop;84.224.8.8
+ACC-73941-TR;Horváth Gábor;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_samsung_s24;46.107.7.7
+ACC-48102-MN;Varga Mária;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_thinkpad_t14;178.48.6.6
+ACC-35412-QW;Farkas Éva;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_macbookpro_15;195.228.5.5
+ACC-81124-ZX;Balogh Katalin;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_iphone15_pro;84.224.4.4
+ACC-53241-AS;Németh Anna;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_windows_desktop;46.107.3.3
+ACC-17092-FD;Molnár Zsuzsanna;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_samsung_s24;178.48.2.2
+ACC-75984-TY;Mészáros Éva;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_thinkpad_t14;195.228.1.1
+ACC-42120-GH;Simon Tamás;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_macbookpro_15;84.224.0.1
+ACC-14102-CV;Kovács Katalin;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_iphone15_pro;46.107.9.9
+ACC-91981-BN;Szabó Attila;HUF;MOL Benzinkút;5541;Siófok, HU;dv_windows_desktop;178.48.8.8
+ACC-63024-MK;Nagy Zoltán;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_samsung_s24;195.228.7.7
+ACC-29241-LK;Kiss Anna;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_thinkpad_t14;84.224.6.6
+ACC-70941-TR;Tóth László;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_macbookpro_15;46.107.5.5
+ACC-47102-MN;Horváth István;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_iphone15_pro;178.48.4.4
+ACC-34412-QW;Varga Zsuzsanna;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_windows_desktop;195.228.3.3
+ACC-80124-ZX;Farkas András;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_samsung_s24;84.224.2.2
+ACC-52241-AS;Balogh József;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_thinkpad_t14;46.107.1.1
+ACC-19092-FD;Németh János;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_macbookpro_15;178.48.0.0
+ACC-75984-TY;Molnár Ferenc;HUF;MOL Benzinkút;5541;Siófok, HU;dv_iphone15_pro;195.228.12.12
+ACC-42120-GH;Mészáros Sándor;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_windows_desktop;84.224.11.11
+ACC-14102-CV;Simon Gábor;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_samsung_s24;46.107.10.10
+ACC-91981-BN;Kovács János;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_thinkpad_t14;178.48.21.21
+ACC-63024-MK;Szabó Tamás;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_macbookpro_15;195.228.31.31
+ACC-29241-LK;Nagy Sándor;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_iphone15_pro;84.224.41.41
+ACC-70941-TR;Kiss István;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_windows_desktop;46.107.51.51
+ACC-47102-MN;Tóth Ferenc;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_samsung_s24;178.48.61.61
+ACC-34412-QW;Horváth József;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_thinkpad_t14;195.228.71.71
+ACC-80124-ZX;Varga Krisztián;HUF;MOL Benzinkút;5541;Siófok, HU;dv_macbookpro_15;84.224.81.81
+ACC-52241-AS;Farkas Dániel;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_iphone15_pro;46.107.91.91
+ACC-19092-FD;Balogh Norbert;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_windows_desktop;178.48.13.13
+ACC-75984-TY;Németh Roland;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_samsung_s24;195.228.23.23
+ACC-42120-GH;Molnár Tibor;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_thinkpad_t14;84.224.43.43
+ACC-14102-CV;Mészáros Imre;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_macbookpro_15;46.107.53.53
+ACC-91981-BN;Simon Balázs;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_iphone15_pro;178.48.63.63
+ACC-63024-MK;Kovács Béla;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_windows_desktop;195.228.73.73
+ACC-29241-LK;Szabó Lajos;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_samsung_s24;84.224.83.83
+ACC-70941-TR;Nagy József;HUF;MOL Benzinkút;5541;Siófok, HU;dv_thinkpad_t14;46.107.93.93
+ACC-47102-MN;Kiss Imre;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_macbookpro_15;178.48.14.14
+ACC-34412-QW;Tóth Balázs;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_iphone15_pro;195.228.24.24
+ACC-80124-ZX;Horváth Béla;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_windows_desktop;84.224.34.34
+ACC-52241-AS;Varga Lajos;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_samsung_s24;46.107.44.44
+ACC-19092-FD;Farkas Tibor;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_thinkpad_t14;178.48.54.54
+ACC-75984-TY;Balogh Roland;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_macbookpro_15;195.228.64.64
+ACC-42120-GH;Németh Dániel;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_iphone15_pro;84.224.74.74
+ACC-14102-CV;Molnár Krisztián;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_windows_desktop;46.107.84.84
+ACC-91981-BN;Mészáros Ferenc;HUF;MOL Benzinkút;5541;Siófok, HU;dv_samsung_s24;178.48.94.94
+ACC-63024-MK;Simon János;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_thinkpad_t14;195.228.14.14
+ACC-29241-LK;Kovács András;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_macbookpro_15;84.224.24.24
+ACC-70941-TR;Szabó Péter;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_iphone15_pro;46.107.34.34
+ACC-47102-MN;Nagy László;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_windows_desktop;178.48.44.44
+ACC-34412-QW;Kiss Tamás;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_samsung_s24;195.228.54.54
+ACC-80124-ZX;Tóth Zoltán;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_thinkpad_t14;84.224.64.64
+ACC-47102-XF;Horváth Gábor;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_iphone15_pro;178.48.34.34
+ACC-34412-BC;Varga Mária;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_windows_desktop;84.224.41.41
+ACC-80124-LM;Farkas Éva;HUF;MOL Benzinkút;5541;Siófok, HU;dv_samsung_s24;46.107.51.51
+ACC-52241-TR;Balogh Katalin;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_thinkpad_t14;178.48.61.61
+ACC-19092-QW;Németh Anna;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_macbookpro_15;195.228.71.71
+ACC-75984-ZA;Molnár Zsuzsanna;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_iphone15_pro;84.224.81.81
+ACC-42120-PL;Mészáros Éva;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_windows_desktop;46.107.91.91
+ACC-14102-MK;Simon Tamás;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_samsung_s24;178.48.13.13
+ACC-91981-NB;Kovács Katalin;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_thinkpad_t14;195.228.23.23
+ACC-63024-VC;Szabó Attila;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_macbookpro_15;84.224.43.43
+ACC-29241-XF;Nagy Zoltán;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_iphone15_pro;46.107.53.53
+ACC-70941-JH;Kiss Anna;HUF;MOL Benzinkút;5541;Siófok, HU;dv_windows_desktop;178.48.63.63
+ACC-47102-GF;Tóth László;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_samsung_s24;195.228.73.73
+ACC-34412-LK;Horváth István;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_thinkpad_t14;84.224.83.83
+ACC-80124-TR;Varga Zsuzsanna;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_macbookpro_15;46.107.93.93
+ACC-52241-MN;Farkas András;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_iphone15_pro;178.48.14.14
+ACC-19092-QW;Balogh József;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_windows_desktop;195.228.24.24
+ACC-75984-ZX;Németh János;HUF;MOL Benzinkút;5541;Siófok, HU;dv_samsung_s24;84.224.34.34
+ACC-42120-AS;Molnár Ferenc;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_thinkpad_t14;46.107.44.44
+ACC-14102-FD;Mészáros Sándor;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_macbookpro_15;178.48.54.54
+ACC-91981-TY;Simon Gábor;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_iphone15_pro;195.228.64.64
+ACC-63024-GH;Kovács János;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_windows_desktop;84.224.74.74
+ACC-29241-CV;Szabó Tamás;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_samsung_s24;46.107.84.84
+ACC-70941-BN;Nagy Sándor;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_thinkpad_t14;178.48.94.94
+ACC-47102-MK;Kiss István;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_macbookpro_15;195.228.14.14
+ACC-34412-LK;Tóth Ferenc;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_iphone15_pro;84.224.24.24
+ACC-80124-TR;Horváth József;HUF;MOL Benzinkút;5541;Siófok, HU;dv_windows_desktop;46.107.34.34
+ACC-52241-MN;Varga Krisztián;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_samsung_s24;178.48.44.44
+ACC-19092-QW;Farkas Dániel;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_thinkpad_t14;195.228.54.54
+ACC-75984-ZX;Balogh Norbert;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_macbookpro_15;84.224.64.64
+ACC-42120-AS;Németh Roland;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_iphone15_pro;46.107.4.44
+ACC-14102-FD;Molnár Tibor;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_windows_desktop;178.48.14.44
+ACC-91981-TY;Mészáros Imre;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_samsung_s24;195.228.24.24
+ACC-63024-GH;Simon Balázs;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_thinkpad_t14;84.224.34.34
+ACC-29241-CV;Kovács Béla;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_macbookpro_15;46.107.44.44
+ACC-70941-BN;Szabó Lajos;HUF;MOL Benzinkút;5541;Siófok, HU;dv_iphone15_pro;178.48.54.54
+ACC-47102-MK;Nagy József;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_windows_desktop;195.228.64.64
+ACC-34412-LK;Kiss Imre;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_samsung_s24;84.224.74.74
+ACC-80124-TR;Tóth Balázs;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_thinkpad_t14;46.107.84.84
+ACC-52241-MN;Horváth Béla;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_macbookpro_15;178.48.94.94
+ACC-19092-QW;Varga Lajos;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_iphone15_pro;195.228.15.15
+ACC-75984-ZX;Farkas Tibor;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_windows_desktop;84.224.25.25
+ACC-42120-AS;Balogh Roland;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_samsung_s24;46.107.35.35
+ACC-14102-FD;Németh Dániel;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_thinkpad_t14;178.48.45.45
+ACC-91981-TY;Molnár Krisztián;HUF;MOL Benzinkút;5541;Siófok, HU;dv_macbookpro_15;195.228.55.55
+ACC-63024-GH;Mészáros Ferenc;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_iphone15_pro;84.224.65.65
+ACC-29241-CV;Simon János;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_windows_desktop;46.107.75.75
+ACC-70941-BN;Kovács András;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_samsung_s24;178.48.85.85
+ACC-47102-MK;Szabó Péter;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_thinkpad_t14;195.228.95.95
+ACC-34412-LK;Nagy László;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_macbookpro_15;84.224.5.55
+ACC-80124-TR;Kiss Tamás;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_iphone15_pro;46.107.15.55
+ACC-52241-MN;Tóth Zoltán;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_windows_desktop;178.48.25.55
+ACC-19092-QW;Horváth Gábor;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_samsung_s24;195.228.35.55
+ACC-75984-ZX;Varga Mária;HUF;MOL Benzinkút;5541;Siófok, HU;dv_thinkpad_t14;84.224.45.55
+ACC-42120-AS;Farkas Éva;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_macbookpro_15;46.107.55.55
+ACC-14102-FD;Balogh Katalin;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_iphone15_pro;178.48.65.55
+ACC-91981-TY;Németh Anna;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_windows_desktop;195.228.75.55
+ACC-63024-GH;Molnár Zsuzsanna;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_samsung_s24;84.224.85.55
+ACC-29241-CV;Mészáros Éva;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_thinkpad_t14;46.107.95.55
+ACC-70941-BN;Simon Tamás;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_macbookpro_15;178.48.5.55
+ACC-47102-MK;Kovács Katalin;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_iphone15_pro;195.228.15.55
+ACC-34412-LK;Szabó Attila;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_windows_desktop;84.224.25.55
+ACC-80124-TR;Nagy Zoltán;HUF;MOL Benzinkút;5541;Siófok, HU;dv_samsung_s24;46.107.35.55
+ACC-52241-MN;Kiss Anna;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_thinkpad_t14;178.48.45.55
+ACC-19092-QW;Tóth László;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_macbookpro_15;195.228.55.55
+ACC-75984-ZX;Horváth István;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_iphone15_pro;84.224.65.55
+ACC-42120-AS;Varga Zsuzsanna;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_windows_desktop;46.107.75.55
+ACC-14102-FD;Farkas András;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_samsung_s24;178.48.85.55
+ACC-91981-TY;Balogh József;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_thinkpad_t14;195.228.95.55
+ACC-63024-GH;Németh János;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_macbookpro_15;84.224.5.44
+ACC-29241-CV;Molnár Ferenc;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_iphone15_pro;46.107.15.44
+ACC-70941-BN;Mészáros Sándor;HUF;MOL Benzinkút;5541;Siófok, HU;dv_windows_desktop;178.48.25.44
+ACC-47102-MK;Simon Gábor;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_samsung_s24;195.228.35.44
+ACC-34412-LK;Kovács János;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_thinkpad_t14;84.224.45.44
+ACC-80124-TR;Szabó Tamás;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_macbookpro_15;46.107.55.44
+ACC-52241-MN;Nagy Sándor;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_iphone15_pro;178.48.65.44
+ACC-19092-QW;Kiss István;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_windows_desktop;195.228.75.44
+ACC-75984-ZX;Tóth Ferenc;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_samsung_s24;84.224.85.44
+ACC-42120-AS;Horváth József;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_thinkpad_t14;46.107.95.44
+ACC-14102-FD;Varga Krisztián;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_macbookpro_15;178.48.5.33
+ACC-91981-TY;Farkas Dániel;HUF;MOL Benzinkút;5541;Siófok, HU;dv_iphone15_pro;195.228.15.33
+ACC-63024-GH;Balogh Norbert;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_windows_desktop;84.224.25.33
+ACC-29241-CV;Németh Roland;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_samsung_s24;46.107.35.33
+ACC-70941-BN;Molnár Tibor;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_thinkpad_t14;178.48.45.33
+ACC-47102-MK;Mészáros Imre;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_macbookpro_15;195.228.55.33
+ACC-34412-LK;Simon Balázs;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_iphone15_pro;84.224.65.33
+ACC-80124-TR;Kovács Béla;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_windows_desktop;46.107.75.33
+ACC-52241-MN;Szabó Lajos;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_samsung_s24;178.48.85.33
+ACC-19092-QW;Nagy József;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_thinkpad_t14;195.228.95.33
+ACC-75984-ZX;Kiss Imre;HUF;MOL Benzinkút;5541;Siófok, HU;dv_macbookpro_15;84.224.5.22
+ACC-42120-AS;Tóth Balázs;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_iphone15_pro;46.107.15.22
+ACC-14102-FD;Horváth Béla;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_windows_desktop;178.48.25.22
+ACC-91981-TY;Varga Lajos;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_samsung_s24;195.228.35.22
+ACC-63024-GH;Farkas Tibor;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_thinkpad_t14;84.224.45.22
+ACC-29241-CV;Balogh Roland;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_macbookpro_15;46.107.55.22
+ACC-70941-BN;Németh Dániel;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_iphone15_pro;178.48.65.22
+ACC-47102-MK;Molnár Krisztián;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_windows_desktop;195.228.75.22
+ACC-34412-LK;Mészáros Ferenc;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_samsung_s24;84.224.85.22
+ACC-80124-TR;Simon János;HUF;MOL Benzinkút;5541;Siófok, HU;dv_thinkpad_t14;46.107.95.22
+ACC-45102-XF;Kovács András;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_macbookpro_15;46.107.15.22
+ACC-12981-BC;Szabó Péter;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_iphone15_pro;178.48.25.22
+ACC-77412-LM;Nagy László;HUF;MOL Benzinkút;5541;Siófok, HU;dv_windows_desktop;195.228.35.22
+ACC-55102-TR;Kiss Tamás;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_samsung_s24;84.224.45.22
+ACC-33981-QW;Tóth Zoltán;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_thinkpad_t14;46.107.55.22
+ACC-88421-ZA;Horváth Gábor;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_macbookpro_15;178.48.65.22
+ACC-12054-PL;Varga Mária;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_iphone15_pro;195.228.75.22
+ACC-45912-MK;Farkas Éva;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_windows_desktop;84.224.85.22
+ACC-73120-NB;Balogh Katalin;HUF;MOL Benzinkút;5541;Siófok, HU;dv_samsung_s24;46.107.95.22
+ACC-29481-VC;Németh Anna;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_thinkpad_t14;178.48.5.11
+ACC-51294-XF;Molnár Zsuzsanna;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_macbookpro_15;195.228.15.11
+ACC-38102-JH;Mészáros Éva;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_iphone15_pro;84.224.25.11
+ACC-90412-GF;Simon Tamás;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_windows_desktop;46.107.35.11
+ACC-66124-LK;Kovács Katalin;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_samsung_s24;178.48.45.11
+ACC-22941-TR;Szabó Attila;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_thinkpad_t14;195.228.55.11
+ACC-77502-MN;Nagy Zoltán;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_macbookpro_15;84.224.65.11
+ACC-41092-QW;Kiss Anna;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_iphone15_pro;46.107.75.11
+ACC-13984-ZX;Tóth László;HUF;MOL Benzinkút;5541;Siófok, HU;dv_windows_desktop;178.48.85.11
+ACC-85412-AS;Horváth István;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_samsung_s24;195.228.95.11
+ACC-32091-FD;Varga Zsuzsanna;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_thinkpad_t14;84.224.5.99
+ACC-58241-TY;Farkas András;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_macbookpro_15;46.107.15.99
+ACC-94102-GH;Balogh József;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_iphone15_pro;178.48.25.99
+ACC-11984-CV;Németh János;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_windows_desktop;195.228.35.99
+ACC-46120-BN;Molnár Ferenc;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_samsung_s24;84.224.45.99
+ACC-72941-MK;Mészáros Sándor;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_thinkpad_t14;46.107.59.99
+ACC-33102-LK;Simon Gábor;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_macbookpro_15;178.48.69.99
+ACC-89412-TR;Kovács János;HUF;MOL Benzinkút;5541;Siófok, HU;dv_iphone15_pro;195.228.79.99
+ACC-55204-MN;Szabó Tamás;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_windows_desktop;84.224.89.99
+ACC-21092-QW;Nagy Sándor;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_samsung_s24;46.107.99.99
+ACC-78984-ZX;Kiss István;HUF;Lidl Magyarország Bt.;5411;Kecchemét, HU;dv_thinkpad_t14;178.48.15.88
+ACC-44120-AS;Tóth Ferenc;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_macbookpro_15;195.228.25.88
+ACC-16102-FD;Horváth József;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_iphone15_pro;84.224.35.88
+ACC-93981-TY;Varga Krisztián;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_windows_desktop;46.107.45.88
+ACC-61024-GH;Farkas Dániel;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_samsung_s24;178.48.55.88
+ACC-28241-CV;Balogh Norbert;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_thinkpad_t14;195.228.65.88
+ACC-74941-BN;Németh Roland;HUF;MOL Benzinkút;5541;Siófok, HU;dv_macbookpro_15;84.224.75.88
+ACC-52102-MK;Molnár Tibor;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_iphone15_pro;46.107.85.88
+ACC-39412-LK;Mészáros Imre;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_windows_desktop;178.48.95.88
+ACC-86124-TR;Simon Balázs;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_samsung_s24;195.228.15.77
+ACC-59241-MN;Kovács Béla;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_thinkpad_t14;84.224.25.77
+ACC-11092-QW;Szabó Lajos;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_macbookpro_15;46.107.35.77
+ACC-76984-ZX;Nagy József;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_iphone15_pro;178.48.45.77
+ACC-42120-AS;Kiss Imre;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_windows_desktop;195.228.55.77
+ACC-14102-FD;Tóth Balázs;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_samsung_s24;84.224.65.77
+ACC-91981-TY;Horváth Béla;HUF;MOL Benzinkút;5541;Siófok, HU;dv_thinkpad_t14;46.107.75.77
+ACC-64024-GH;Varga Lajos;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_macbookpro_15;178.48.85.77
+ACC-26241-CV;Farkas Tibor;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_iphone15_pro;195.228.95.77
+ACC-71941-BN;Balogh Roland;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_windows_desktop;84.224.15.66
+ACC-50102-MK;Németh Dániel;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_samsung_s24;46.107.25.66
+ACC-37412-LK;Molnár Krisztián;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_thinkpad_t14;178.48.35.66
+ACC-83124-TR;Mészáros Ferenc;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_macbookpro_15;195.228.45.66
+ACC-56241-MN;Simon János;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_iphone15_pro;84.224.55.66
+ACC-19092-QW;Kovács András;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_windows_desktop;46.107.65.66
+ACC-75984-ZX;Szabó Péter;HUF;MOL Benzinkút;5541;Siófok, HU;dv_samsung_s24;178.48.75.66
+ACC-40120-AS;Nagy László;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_thinkpad_t14;195.228.85.66
+ACC-12102-FD;Kiss Tamás;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_macbookpro_15;84.224.95.66
+ACC-95981-TY;Tóth Zoltán;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_iphone15_pro;46.107.15.55
+ACC-62024-GH;Horváth Gábor;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_windows_desktop;178.48.25.55
+ACC-25241-CV;Varga Mária;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_samsung_s24;195.228.35.55
+ACC-70941-BN;Farkas Éva;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_thinkpad_t14;84.224.45.55
+ACC-49102-MK;Balogh Katalin;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_macbookpro_15;46.107.55.55
+ACC-36412-LK;Németh Anna;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_iphone15_pro;178.48.65.55
+ACC-82124-TR;Molnár Zsuzsanna;HUF;MOL Benzinkút;5541;Siófok, HU;dv_windows_desktop;195.228.75.55
+ACC-54241-MN;Mészáros Éva;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_samsung_s24;84.224.85.55
+ACC-18092-QW;Simon Tamás;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_thinkpad_t14;46.107.95.55
+ACC-74984-ZX;Kovács Katalin;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_macbookpro_15;178.48.5.44
+ACC-41120-AS;Szabó Attila;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_iphone15_pro;195.228.15.44
+ACC-15102-FD;Nagy Zoltán;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_windows_desktop;84.224.25.44
+ACC-92981-TY;Kiss Anna;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_samsung_s24;46.107.35.44
+ACC-61024-GH;Tóth László;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_thinkpad_t14;178.48.45.44
+ACC-27241-MK;Horváth István;HUF;Amazon EU Sarl;5942;Luxembourg, LU;dv_macbookpro_15;195.228.55.44
+ACC-72941-LK;Varga Zsuzsanna;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_iphone15_pro;84.224.65.44
+ACC-51102-TR;Farkas András;HUF;MOL Benzinkút;5541;Siófok, HU;dv_windows_desktop;46.107.75.44
+ACC-38412-MN;Balogh József;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_samsung_s24;178.48.85.44
+ACC-84124-QW;Németh János;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_thinkpad_t14;195.228.95.44
+ACC-57241-ZX;Molnár Ferenc;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_macbookpro_15;84.224.5.33
+ACC-10092-AS;Mészáros Sándor;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_iphone15_pro;46.107.15.33
+ACC-76984-FD;Simon Gábor;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_windows_desktop;178.48.25.33
+ACC-43120-TY;Kovács János;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_samsung_s24;195.228.35.33
+ACC-13102-GH;Szabó Tamás;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_thinkpad_t14;84.224.45.33
+ACC-90981-CV;Nagy Sándor;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_macbookpro_15;46.107.55.33
+ACC-65024-BN;Kiss István;HUF;MOL Benzinkút;5541;Siófok, HU;dv_iphone15_pro;178.48.65.33
+ACC-24241-MK;Tóth Ferenc;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_windows_desktop;195.228.75.33
+ACC-73941-LK;Horváth József;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_samsung_s24;84.224.85.33
+ACC-48102-TR;Varga Krisztián;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_thinkpad_t14;46.107.95.33
+ACC-35412-MN;Farkas Dániel;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_macbookpro_15;178.48.5.22
+ACC-81124-QW;Balogh Norbert;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_iphone15_pro;195.228.15.22
+ACC-53241-ZX;Németh Roland;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_windows_desktop;84.224.25.22
+ACC-17092-AS;Molnár Tibor;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_samsung_s24;46.107.35.22
+ACC-75984-FD;Mészáros Imre;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_thinkpad_t14;178.48.45.22
+ACC-42120-XF;Simon Balázs;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_macbookpro_15;195.228.55.22
+ACC-14102-BC;Kovács Béla;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_iphone15_pro;84.224.65.22
+ACC-91981-LM;Szabó Lajos;HUF;MOL Benzinkút;5541;Siófok, HU;dv_windows_desktop;46.107.75.22
+ACC-63024-TR;Nagy József;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_samsung_s24;178.48.85.22
+ACC-29241-QW;Kiss Imre;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_thinkpad_t14;195.228.95.22
+ACC-70941-ZA;Tóth Balázs;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_macbookpro_15;84.224.5.15
+ACC-47102-PL;Horváth Béla;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_iphone15_pro;46.107.15.15
+ACC-34412-MK;Varga Lajos;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_windows_desktop;178.48.25.15
+ACC-80124-NB;Farkas Tibor;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_samsung_s24;195.228.35.15
+ACC-52241-VC;Balogh Roland;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_thinkpad_t14;84.224.45.15
+ACC-19092-XF;Németh Dániel;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_macbookpro_15;46.107.55.15
+ACC-75984-JH;Molnár Krisztián;HUF;MOL Benzinkút;5541;Siófok, HU;dv_iphone15_pro;178.48.65.15
+ACC-42120-GF;Mészáros Ferenc;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_windows_desktop;195.228.75.15
+ACC-14102-LK;Simon János;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_samsung_s24;84.224.85.15
+ACC-91981-TR;Kovács András;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_thinkpad_t14;46.107.95.15
+ACC-63024-MN;Szabó Péter;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_macbookpro_15;178.48.5.99
+ACC-29241-QW;Nagy László;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_iphone15_pro;195.228.15.99
+ACC-70941-ZX;Kiss Tamás;HUF;MOL Benzinkút;5541;Siófok, HU;dv_windows_desktop;84.224.25.99
+ACC-47102-AS;Tóth Zoltán;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_samsung_s24;46.107.35.99
+ACC-34412-FD;Horváth Gábor;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_thinkpad_t14;178.48.45.99
+ACC-80124-TY;Varga Mária;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_macbookpro_15;195.228.55.99
+ACC-52241-GH;Farkas Éva;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_iphone15_pro;84.224.65.99
+ACC-19092-CV;Balogh Katalin;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_windows_desktop;46.107.75.99
+ACC-75984-BN;Németh Anna;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_samsung_s24;178.48.85.99
+ACC-42120-MK;Molnár Zsuzsanna;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_thinkpad_t14;195.228.95.99
+ACC-14102-LK;Mészáros Éva;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_macbookpro_15;84.224.5.88
+ACC-91981-TR;Simon Tamás;HUF;MOL Benzinkút;5541;Siófok, HU;dv_iphone15_pro;46.107.15.88
+ACC-63024-MN;Kovács Katalin;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_windows_desktop;178.48.25.88
+ACC-29241-QW;Szabó Attila;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_samsung_s24;195.228.35.88
+ACC-70941-ZX;Nagy Zoltán;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_thinkpad_t14;84.224.45.88
+ACC-47102-AS;Kiss Anna;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_macbookpro_15;46.107.55.88
+ACC-34412-FD;Tóth László;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_iphone15_pro;178.48.65.88
+ACC-80124-TY;Horváth István;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_windows_desktop;195.228.75.88
+ACC-52241-GH;Varga Zsuzsanna;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_samsung_s24;84.224.85.88
+ACC-19092-CV;Farkas András;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_thinkpad_t14;46.107.95.88
+ACC-75984-BN;Balogh József;HUF;MOL Benzinkút;5541;Siófok, HU;dv_macbookpro_15;178.48.5.77
+ACC-42120-MK;Németh János;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_iphone15_pro;195.228.15.77
+ACC-14102-LK;Molnár Ferenc;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_windows_desktop;84.224.25.77
+ACC-91981-TR;Mészáros Sándor;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_samsung_s24;46.107.35.77
+ACC-63024-MN;Simon Gábor;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_thinkpad_t14;178.48.45.77
+ACC-29241-QW;Kovács János;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_macbookpro_15;195.228.55.77
+ACC-70941-ZX;Szabó Tamás;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_iphone15_pro;84.224.65.77
+ACC-47102-AS;Nagy Sándor;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_windows_desktop;46.107.75.77
+ACC-34412-FD;Kiss István;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_samsung_s24;178.48.85.77
+ACC-80124-TY;Tóth Ferenc;HUF;MOL Benzinkút;5541;Siófok, HU;dv_thinkpad_t14;195.228.95.77
+ACC-52241-GH;Horváth József;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_macbookpro_15;84.224.5.66
+ACC-19092-CV;Varga Krisztián;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_iphone15_pro;46.107.15.66
+ACC-75984-BN;Farkas Dániel;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_windows_desktop;178.48.25.66
+ACC-42120-MK;Balogh Norbert;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_samsung_s24;195.228.35.66
+ACC-14102-LK;Németh Roland;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_thinkpad_t14;84.224.45.66
+ACC-91981-TR;Molnár Tibor;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_macbookpro_15;46.107.55.66
+ACC-63024-MN;Mészáros Imre;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_iphone15_pro;178.48.65.66
+ACC-29241-QW;Simon Balázs;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_windows_desktop;195.228.75.66
+ACC-70941-ZX;Kovács Béla;HUF;MOL Benzinkút;5541;Siófok, HU;dv_samsung_s24;84.224.85.66
+ACC-47102-AS;Szabó Lajos;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_thinkpad_t14;46.107.95.66
+ACC-34412-FD;Nagy József;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_macbookpro_15;178.48.5.55
+ACC-80124-TY;Kiss Imre;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_iphone15_pro;195.228.15.55
+ACC-52241-GH;Tóth Balázs;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_windows_desktop;84.224.25.55
+ACC-19092-CV;Horváth Béla;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_samsung_s24;46.107.35.55
+ACC-75984-BN;Varga Lajos;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_thinkpad_t14;178.48.45.55
+ACC-42120-MK;Farkas Tibor;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_macbookpro_15;195.228.55.55
+ACC-14102-LK;Balogh Roland;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_iphone15_pro;84.224.65.55
+ACC-91981-TR;Németh Dániel;HUF;MOL Benzinkút;5541;Siófok, HU;dv_windows_desktop;46.107.75.55
+ACC-63024-MN;Molnár Krisztián;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_samsung_s24;178.48.85.55
+ACC-29241-QW;Mészáros Ferenc;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_thinkpad_t14;195.228.95.55
+ACC-70941-ZX;Simon János;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_macbookpro_15;84.224.5.44
+ACC-47102-AS;Kovács András;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_iphone15_pro;46.107.15.44
+ACC-34412-FD;Szabó Péter;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_windows_desktop;178.48.25.44
+ACC-80124-TY;Nagy László;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_samsung_s24;195.228.35.44
+ACC-52241-GH;Kiss Tamás;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_thinkpad_t14;84.224.45.44
+ACC-19092-CV;Tóth Zoltán;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_macbookpro_15;46.107.55.44
+ACC-75984-BN;Horváth Gábor;HUF;MOL Benzinkút;5541;Siófok, HU;dv_iphone15_pro;178.48.65.44
+ACC-42120-MK;Varga Mária;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_windows_desktop;195.228.75.44
+ACC-14102-LK;Farkas Éva;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_samsung_s24;84.224.85.44
+ACC-91981-TR;Balogh Katalin;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_thinkpad_t14;46.107.95.44
+ACC-63024-MN;Németh Anna;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_macbookpro_15;178.48.15.15
+ACC-29241-QW;Molnár Zsuzsanna;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_iphone15_pro;195.228.25.15
+ACC-70941-ZX;Mészáros Éva;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_windows_desktop;84.224.35.15
+ACC-47102-AS;Simon Tamás;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_samsung_s24;46.107.45.15
+ACC-34412-FD;Kovács Katalin;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_thinkpad_t14;178.48.55.15
+ACC-80124-TY;Szabó Attila;HUF;MOL Benzinkút;5541;Siófok, HU;dv_macbookpro_15;195.228.65.15
+ACC-52241-GH;Nagy Zoltán;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_iphone15_pro;84.224.75.15
+ACC-19092-CV;Kiss Anna;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_windows_desktop;46.107.85.15
+ACC-75984-BN;Tóth László;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_samsung_s24;178.48.95.15
+ACC-42120-MK;Horváth István;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_thinkpad_t14;195.228.5.25
+ACC-14102-LK;Varga Zsuzsanna;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_macbookpro_15;84.224.15.25
+ACC-91981-TR;Farkas András;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_iphone15_pro;46.107.25.25
+ACC-63024-MN;Balogh József;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_windows_desktop;178.48.35.25
+ACC-29241-QW;Németh János;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_samsung_s24;195.228.45.25
+ACC-70941-ZX;Molnár Ferenc;HUF;MOL Benzinkút;5541;Siófok, HU;dv_thinkpad_t14;84.224.55.25
+ACC-47102-AS;Mészáros Sándor;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_macbookpro_15;46.107.65.25
+ACC-34412-FD;Simon Gábor;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_iphone15_pro;178.48.75.25
+ACC-80124-TY;Kovács János;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_windows_desktop;195.228.85.25
+ACC-52241-GH;Szabó Tamás;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_samsung_s24;84.224.95.25
+ACC-19092-CV;Nagy Sándor;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_thinkpad_t14;46.107.5.35
+ACC-75984-BN;Kiss István;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_macbookpro_15;178.48.15.35
+ACC-42120-MK;Tóth Ferenc;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_iphone15_pro;195.228.25.35
+ACC-14102-LK;Horváth József;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_windows_desktop;84.224.35.35
+ACC-91981-TR;Varga Krisztián;HUF;MOL Benzinkút;5541;Siófok, HU;dv_samsung_s24;46.107.45.35
+ACC-63024-MN;Balogh Norbert;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_thinkpad_t14;84.224.55.35
+ACC-29241-QW;Németh Roland;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_macbookpro_15;46.107.65.35
+ACC-70941-ZX;Molnár Tibor;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_iphone15_pro;178.48.75.35
+ACC-47102-AS;Mészáros Imre;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_windows_desktop;195.228.85.35
+ACC-34412-FD;Simon Balázs;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_samsung_s24;84.224.95.35
+ACC-80124-TY;Kovács Béla;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_thinkpad_t14;46.107.5.45
+ACC-52241-GH;Szabó Lajos;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_macbookpro_15;178.48.15.45
+ACC-19092-CV;Nagy József;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_iphone15_pro;195.228.25.45
+ACC-75984-BN;Kiss Imre;HUF;MOL Benzinkút;5541;Siófok, HU;dv_windows_desktop;84.224.35.45
+ACC-42120-MK;Tóth Balázs;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_samsung_s24;46.107.45.45
+ACC-14102-LK;Horváth Béla;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_thinkpad_t14;178.48.55.45
+ACC-91981-TR;Varga Lajos;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_macbookpro_15;195.228.65.45
+ACC-63024-MN;Farkas Tibor;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_iphone15_pro;84.224.75.45
+ACC-29241-QW;Balogh Roland;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_windows_desktop;46.107.85.45
+ACC-70941-ZX;Németh Dániel;HUF;OTP Bank Nyrt.;6011;Budapest, HU;dv_samsung_s24;178.48.95.45
+ACC-47102-AS;Molnár Krisztián;HUF;MVM Next Energiakereskedelmi Zrt.;4900;Budapest, HU;dv_thinkpad_t14;195.228.5.55
+ACC-34412-FD;Mészáros Ferenc;EUR;Betsson Group Ltd;7995;Ta' Xbiex, MT;dv_macbookpro_15;84.224.15.55
+ACC-80124-TY;Simon János;HUF;MOL Benzinkút;5541;Siófok, HU;dv_iphone15_pro;46.107.25.55
+ACC-52241-GH;Kovács András;HUF;Telekom Magyarország Nyrt.;4814;Budapest, HU;dv_windows_desktop;178.48.35.55
+ACC-19092-CV;Szabó Péter;USD;Amazon EU Sarl;5942;Luxembourg, LU;dv_samsung_s24;195.228.45.55
+ACC-75984-BN;Nagy László;HUF;Lidl Magyarország Bt.;5411;Kecskemét, HU;dv_thinkpad_t14;84.224.55.55
+ACC-42120-MK;Kiss Tamás;HUF;Tesco Áruházak Zrt.;5411;Budaörs, HU;dv_macbookpro_15;46.107.65.55
