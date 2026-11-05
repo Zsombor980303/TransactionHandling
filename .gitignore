@@ -1,0 +1,17 @@
+### .NET / C# tiltások ###
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+### Python tiltások ###
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.idea/
+.vscode/

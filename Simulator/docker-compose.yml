@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  rabbitmq:
+    # We use the management version to get a visual dashboard in the browser
+    image: rabbitmq:3-management
+    container_name: fintech_rabbitmq
+    ports:
+      # Standard AMQP protocol port for Python and .NET background services
+      - "5672:5672"
+      # RabbitMQ Management Web Console port for real-time monitoring and alerting
+      - "15672:15672"
+    environment:
+        # Default credentials for local development environment
+      - RABBITMQ_DEFAULT_USER=guest
+      - RABBITMQ_DEFAULT_PASS=guest
+    volumes:
+        # Data persistence: Save data to the host machine so our queues and transactions do not disappear when the container stops or restarts
+      - rabbitmq_data:/var/lib/rabbitmq
+
+  postgres:
+    image: postgres:16-alpine # Uses stable PostgreSQL 16 on lightweight Alpine Linux for minimal resource footprint and maximum security
+    container_name: fintech_postgres
+    restart: always # Automatically restarts the database if it crashes, or when the Docker host machine reboots
+    ports:
+      - "5432:5432" # Exposes the standard PostgreSQL port so our C# .NET Web API can execute SQL commands from the host
+    environment:
+      - POSTGRES_USER=fintech_user
+      - POSTGRES_PASSWORD=fintech_secure_pass123
+      - POSTGRES_DB=fintech_transactions_db
+    volumes:
+      # Data persistence: Save data to the host machine
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  # Permanent storage for our RabbitMQ data. If we lose connection, we need to store (see volumes) somewhere the otherwise lost data, and when docker works again, it will read these datas from this physical storage. In enterprise system, it is usually not physical, rather some cloud backup storage system. After restart, Docker will be empty, so need to read data from "rabbitmq_data:/var/lib/rabbitmq" which we defined above
+  rabbitmq_data:
+    # Permanent storage for our PostgreSQL database transactions
+  postgres_data:
+  
